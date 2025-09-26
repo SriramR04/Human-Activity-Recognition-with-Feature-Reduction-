@@ -1,6 +1,5 @@
 # Human-Activity-Recognition-with-Feature-Reduction
-
-This project explores human activity recognition using smartphone sensor data and applies feature reduction techniques to improve model efficiency.
+Built a Human Activity Recognition model using the UCI Smartphone dataset. Trained a Naive Bayes baseline on 561 features (73% accuracy) and applied K-Means feature reduction to 50 features, improving accuracy to 81% while cutting training time from 0.37s to 0.01s. Implemented with Python, scikit-learn, Pandas, NumPy, and BeautifulSoup.
 
 ## Dataset
 
